@@ -15,7 +15,7 @@
   <div id="nav">
     <nav>
       <!-- <%= image_tag "headshot.png" %> -->
-      <h1>CHARLOTTE SMITH</h1>
+      <h1><a href="/">CHARLOTTE SMITH</a></h1>
       <h2>Subheader text goes here</h2>
     </nav>
 
@@ -38,6 +38,7 @@
 <%= yield %>
 
 <%= javascript_include_tag 'application' %>
+<%= javascript_pack_tag 'application' %>
 <%= yield :extra_footer %>
 </body>
 </html>
