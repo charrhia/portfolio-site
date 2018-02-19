@@ -1,0 +1,33 @@
+/* main div  */
+
+#contact-me {
+  background-color: #B0C4DE;
+  width: 750px;
+  margin: 0 auto;
+}
+
+.icons {
+  margin-left: 42%;
+}
+
+
+/* text/icons */
+
+#contact-me p {
+  padding: 15px 15px;
+  text-align: center;
+}
+
+#contact-me span {
+  list-style: none;
+  font-size: 40px;
+}
+
+#contact-me span a {
+  color: black;
+  margin-right: 10px;
+}
+
+#contact-me span a:hover {
+  color: white;
+}
