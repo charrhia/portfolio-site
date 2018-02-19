@@ -1,0 +1,67 @@
+
+/* main nav div */
+
+nav {
+  background-color: #B0C4DE;
+  padding: 50px 50px;
+  width: 750px;
+  margin: 0 auto;
+}
+
+#nav {
+  margin-top: 200px;
+}
+
+/* main nav text */
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  list-style: none;
+  font-weight: bold;
+  text-align: center;
+}
+
+h2 {
+  font-size: 20px;
+  text-align: center;
+}
+
+/* actions */
+
+#actions {
+  background-color: #778899;
+  width: 750px;
+  padding: 20px 20px;
+  margin: 0 auto;
+}
+
+#actions li {
+  list-style: none;
+  display: inline;
+  padding: 10px 10px;
+}
+
+#actions ul {
+  text-align: center;
+  color: white;
+}
+
+#actions a {
+  color: white;
+  text-decoration: none;
+}
+
+
+/*
+
+font options
+
+font-family: 'Fugaz One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Vast Shadow', cursive; */
+/* font-family: 'Fugaz One', cursive;
+font-family: 'Fredericka the Great', cursive;
+font-family: 'Vast Shadow', cursive;
+font-family: 'Oleo Script Swash Caps', cursive;
+
+*/
