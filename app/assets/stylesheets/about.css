@@ -1,0 +1,17 @@
+/* main div  */
+
+#about-me {
+  background-color: #B0C4DE;
+  width: 750px;
+  margin: 0 auto;
+}
+
+/* text */
+
+#about-me p {
+  padding: 15px 15px;
+}
+
+#about-me ul {
+  padding: 15px 15px;
+}
