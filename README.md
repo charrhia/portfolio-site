@@ -1,5 +1,5 @@
 # Portfolio
-[![Build Status](https://codeship.com/projects/983578c0-f73b-0135-46d3-6ad32d11bd9d/status?branch=master)
+![Build Status](https://codeship.com/projects/983578c0-f73b-0135-46d3-6ad32d11bd9d/status?branch=master)
 [![Code Climate](https://codeclimate.com/github/charrhia/portfolio-site/badges/gpa.svg)](https://codeclimate.com/github/charrhia/portfolio-site)
 [![Coverage Status](https://coveralls.io/repos/github/charrhia/portfolio-site/badge.svg?branch=master)](https://coveralls.io/github/charrhia/portfolio-site?branch=master)
 
