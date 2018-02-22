@@ -1,0 +1,33 @@
+/* main div  */
+
+#projects {
+  background-color: #B0C4DE;
+  width: 750px;
+  margin: 0 auto;
+}
+
+/* text */
+
+#projects p {
+  padding: 15px 15px;
+}
+
+
+#projects .video {
+  max-width: 500px;
+}
+
+
+.video-react-controls-enabled, .video-react-has-started, .video-react-paused, .video-react-fluid, .video-react-user-inactive, .video-react-workinghover, .video-react, .video {
+  padding-top: 5px;
+}
+
+.video-react-big-play-button, .video-react-big-play-button-left, .video button {
+  font-size: 10px;
+  padding: 5px 5px;
+  display: inline;
+}
+
+.video-react-control-bar, video-react-control-bar-auto-hide video {
+  display: none;
+}
