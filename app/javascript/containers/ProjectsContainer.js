@@ -1,5 +1,7 @@
 import React, { Component } from 'react'
 
+import { Player } from 'video-react';
+
 class ProjectsContainer extends Component {
   constructor(props) {
     super(props)
@@ -11,8 +13,14 @@ class ProjectsContainer extends Component {
   render() {
 
     return(
-      <div>
-        Hello from the Projects Container
+      <div id="projects">
+        <p>Habit Tracker</p>
+        <Player
+          playsInline
+          src="/assets/habit-tracker.mp4"
+          className="video"
+        />
+
       </div>
     )
   }
