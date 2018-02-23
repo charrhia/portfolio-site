@@ -10,6 +10,7 @@
 
 #projects p {
   padding: 15px 15px;
+  text-align: center;
 }
 
 
@@ -17,17 +18,7 @@
   max-width: 500px;
 }
 
-
-.video-react-controls-enabled, .video-react-has-started, .video-react-paused, .video-react-fluid, .video-react-user-inactive, .video-react-workinghover, .video-react, .video {
-  padding-top: 5px;
-}
-
-.video-react-big-play-button, .video-react-big-play-button-left, .video button {
-  font-size: 10px;
-  padding: 5px 5px;
-  display: inline;
-}
-
-.video-react-control-bar, video-react-control-bar-auto-hide video {
-  display: none;
+#projects h3 {
+  padding: 15px 15px;
+  text-align: center;
 }
