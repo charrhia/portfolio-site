@@ -1,7 +1,5 @@
 import React, { Component } from 'react'
 
-// import { Player } from 'video-react';
-
 class ProjectsContainer extends Component {
   constructor(props) {
     super(props)
