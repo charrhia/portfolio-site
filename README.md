@@ -17,4 +17,4 @@
  # Application Walkthrough
 * Portfolio site to list past/current projects, skills, etc in the tech field
 * Utilizing this project to hone in on my React/Rails skill as well as implement new gems, libraries, or APIs for practice
-
+* APIs I want to implement: Wunderlist API, React Video
