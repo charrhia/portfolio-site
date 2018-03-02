@@ -1,11 +1,16 @@
 
+
+
+
 /* main nav div */
+
 
 nav {
   background-color: #B0C4DE;
   padding: 50px 50px;
   width: 750px;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 #nav {
@@ -38,6 +43,7 @@ h2 {
   width: 750px;
   padding: 20px 20px;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 #actions li {
