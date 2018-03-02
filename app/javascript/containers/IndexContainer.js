@@ -12,7 +12,7 @@ class IndexContainer extends Component {
 
     return(
       <div>
-        Hello from the Index Container
+
       </div>
     )
   }

@@ -4,6 +4,7 @@
   background-color: #B0C4DE;
   width: 750px;
   margin: 0 auto;
+  border-radius: 10px;
 }
 
 /* text */
@@ -11,11 +12,6 @@
 #projects p {
   padding: 15px 15px;
   text-align: center;
-}
-
-
-#projects .video {
-  max-width: 500px;
 }
 
 #projects h3 {
